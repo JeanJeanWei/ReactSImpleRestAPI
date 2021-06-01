@@ -1,3 +1,3 @@
 # ReactSImpleRestAPI
-This is a MVC design repository uses reacte + restfulAPI using visual studio for Mac.
+This repository is to demo MVC design using reacte + restfulAPI by visual studio for Mac.
 

@@ -8,9 +8,9 @@ export class FetchData extends Component {
     this.state = { forecasts: [], loading: true };
   }
 
-    componentDidMount() {
+   async componentDidMount() {
         
-    this.populateWeatherData();
+    await this.populateWeatherData();
   }
 
   static renderForecastsTable(forecasts) {
@@ -18,23 +18,20 @@ export class FetchData extends Component {
       <table className='table table-striped' aria-labelledby="tabelLabel">
         <thead>
           <tr>
-            <th>Name</th>
-            <th>R</th>
-            <th>G</th>
-            <th>B</th>
-            <th>Hex</th>
-            <th>Distance</th>
+            <th>Date</th>
+                    <th>TemperatureC</th>
+                    <th>TemperatureF</th>
+                    <th>Summary</th>
           </tr>
         </thead>
         <tbody>
-          {forecasts.map(forecast =>
-            <tr key={forecast.date}>
-              <td>{forecast.Name}</td>
-              <td>{forecast.R}</td>
-              <td>{forecast.G}</td>
-              <td>{forecast.B}</td>
-              <td>{forecast.Hex}</td>
-              <td>{forecast.Distance}</td>
+                {forecasts.map(forecast =>
+                    <tr key={forecast.date}>
+
+                        <td>{forecast.date}</td>
+                        <td>{forecast.temperatureC}</td>
+                        <td>{forecast.temperatureF}</td>
+                        <td>{forecast.summary}</td>
             </tr>
           )}
         </tbody>
@@ -57,7 +54,7 @@ export class FetchData extends Component {
   }
 
   async populateWeatherData() {
-      const response = await fetch("/color/allcolordata");
+      const response = await fetch('weatherforecast');
     const data = await response.json();
     this.setState({ forecasts: data, loading: false });
   }

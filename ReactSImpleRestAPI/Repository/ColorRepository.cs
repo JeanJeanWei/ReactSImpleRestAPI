@@ -31,9 +31,9 @@ namespace ReactSImpleRestAPI.Repository
                 cd.Name = arr[1];
                 int argb = int.Parse(cd.Hex, NumberStyles.HexNumber);
                 Color clr = Color.FromArgb(argb);
-                cd.R = clr.R;
-                cd.G = clr.G;
-                cd.B = clr.B;
+                cd.Red = clr.R;
+                cd.Green = clr.G;
+                cd.Blue = clr.B;
                 cdList.Add(cd);
             }
             return cdList;
@@ -67,16 +67,16 @@ namespace ReactSImpleRestAPI.Repository
             for (int i = 0; i < Colors.Count; i++)
             {
                 var b = Colors[i];
-                var d = Distance3D(a.R, a.G, a.B, b.R, b.G, b.B);
+                var d = Distance3D(a.R, a.G, a.B, b.Red, b.Green, b.Blue);
                 
                 if (d < result.Distance)
                 {
                     result.Distance = d;
                     result.Name = b.Name;
                     result.Hex = b.Hex;
-                    result.R = b.R;
-                    result.G = b.G;
-                    result.B = b.G;
+                    result.Red = b.Red;
+                    result.Green = b.Green;
+                    result.Blue = b.Green;
                 }
             }
             return result;

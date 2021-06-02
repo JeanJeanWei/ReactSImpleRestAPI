@@ -46,7 +46,7 @@ namespace ReactSImpleRestAPI.Controllers
             return Ok(data);
         }
 
-        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(ColorData))]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<ColorData>))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [HttpGet("ClosestColorNameByHex/{hex}")]
         [Route("ClosestColorNameByHex")]
@@ -54,11 +54,20 @@ namespace ReactSImpleRestAPI.Controllers
         {
 
             ColorRepository cp = new ColorRepository();
-            var data = await cp.ClosestColorNameByHex(hex);
-            if (data == null || data.Name == null)
+            var result = await cp.ClosestColorNameByHex(hex);
+            
+            if (result == null || result.Name == null)
             {
                 return NotFound("No record");
             }
+            List<ColorData> data = new List<ColorData>();
+            ColorData input = new ColorData
+            {
+                Name = "Your input color",
+                Hex = hex,
+            };
+            data.Add(input);
+            data.Add(result);
             return Ok(data);
         }
     }

@@ -4,6 +4,7 @@ import { Layout } from './components/Layout';
 import { Home } from './components/Home';
 import { FetchData } from './components/FetchData';
 import { FetchColors } from './components/FetchColors';
+import { FindColorName } from './components/FindColorName';
 import { Counter } from './components/Counter';
 
 import './custom.css'
@@ -18,6 +19,7 @@ export default class App extends Component {
         <Route path='/counter' component={Counter} />
         <Route path='/fetch-data' component={FetchData} />
         <Route path='/fetch-colors' component={FetchColors} />
+        <Route path='/find-color-name' component={FindColorName} />
       </Layout>
     );
   }

@@ -48,7 +48,7 @@ namespace ReactSImpleRestAPI.Controllers
 
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(ColorData))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        [HttpGet]
+        [HttpGet("ClosestColorNameByHex/{hex}")]
         [Route("ClosestColorNameByHex")]
         public async Task<IActionResult> ClosestColorNameByHex(string hex)
         {

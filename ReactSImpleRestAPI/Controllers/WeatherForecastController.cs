@@ -1,9 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Options;
+using ReactSImpleRestAPI.Models;
+using ReactSImpleRestAPI.Models.Weather;
+using ReactSImpleRestAPI.Repository.Weather;
 
 namespace ReactSImpleRestAPI.Controllers
 {
@@ -11,29 +13,41 @@ namespace ReactSImpleRestAPI.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
-        private static readonly string[] Summaries = new[]
-        {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-        };
-
         private readonly ILogger<WeatherForecastController> _logger;
 
-        public WeatherForecastController(ILogger<WeatherForecastController> logger)
+        public WeatherForecastController(IOptions<EnvironmentSettings> options)
         {
-            _logger = logger;
+            var env = options.Value.Environment;
         }
 
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(WeatherForecast))]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        [Route("SearchByCityName")]
+        public IActionResult SearchByCityName(string name)
         {
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            WeatherRepositoryDevelopment wp = new WeatherRepositoryDevelopment();
+            var data = wp.SearchByCityName(name);
+            if (data == null)
             {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
+                return NotFound("No record");
+            }
+            return Ok(data);
+        }
+
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(WeatherForecast))]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [HttpGet]
+        [Route("SearchByCityNameAsync")]
+        public async Task<IActionResult> SearchByCityNameAsync(string name)
+        {
+            WeatherRepositoryDevelopment wp = new WeatherRepositoryDevelopment();
+            var data = await wp.SearchByCityNameAsync(name);
+            if (data == null)
+            {
+                return NotFound("No record");
+            }
+            return Ok(data);
         }
     }
 }

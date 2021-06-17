@@ -1,5 +1,5 @@
 ﻿using System;
-namespace SimpleRestAPI.Models
+namespace ReactSImpleRestAPI.Models
 {
     public class TransientFaultHandlingOptions
     {

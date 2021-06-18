@@ -84,4 +84,5 @@ export class FindColorName extends Component {
         const data = await response.json();
         this.setState({ colors: data, loading: false });
     }
+
 }

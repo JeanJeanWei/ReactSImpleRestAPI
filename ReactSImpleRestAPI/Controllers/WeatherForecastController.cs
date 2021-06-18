@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -20,9 +21,9 @@ namespace ReactSImpleRestAPI.Controllers
             var env = options.Value.Environment;
         }
 
-        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(WeatherForecast))]
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<WeatherForecast>))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        [HttpGet]
+        [HttpGet("SearchByCityName/{name}")]
         [Route("SearchByCityName")]
         public IActionResult SearchByCityName(string name)
         {
@@ -32,12 +33,14 @@ namespace ReactSImpleRestAPI.Controllers
             {
                 return NotFound("No record");
             }
-            return Ok(data);
+            List<WeatherForecast> l = new List<WeatherForecast>();
+            l.Add(data);
+            return Ok(l);
         }
 
         [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(WeatherForecast))]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
-        [HttpGet]
+        [HttpGet("SearchByCityNameAsync/{name}")]
         [Route("SearchByCityNameAsync")]
         public async Task<IActionResult> SearchByCityNameAsync(string name)
         {
@@ -47,7 +50,9 @@ namespace ReactSImpleRestAPI.Controllers
             {
                 return NotFound("No record");
             }
-            return Ok(data);
+            List<WeatherForecast> l = new List<WeatherForecast>();
+            l.Add(data);
+            return Ok(l);
         }
     }
 }

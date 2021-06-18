@@ -5,33 +5,40 @@ export class FetchData extends Component {
 
   constructor(props) {
     super(props);
-    this.state = { forecasts: [], loading: true };
+      this.state = { forecasts: [], loading: true };
   }
 
-   async componentDidMount() {
-        
-    await this.populateWeatherData();
+    async componentDidMount() {
+        await this.populateWeatherData();
   }
 
   static renderForecastsTable(forecasts) {
     return (
       <table className='table table-striped' aria-labelledby="tabelLabel">
         <thead>
-          <tr>
-            <th>Date</th>
+                <tr>
+                    <th>City</th>
+                    <th>Date</th>
                     <th>TemperatureC</th>
+                    <th>Feels Like C</th>
                     <th>TemperatureF</th>
-                    <th>Summary</th>
+                    <th>Weather</th>
+                    <th>Weather Description</th>
+                    <th>Country Code</th>
+                    
           </tr>
         </thead>
         <tbody>
                 {forecasts.map(forecast =>
-                    <tr key={forecast.date}>
-
+                    <tr key={forecast.cityName}>
+                        <td>{forecast.cityName}</td>
                         <td>{forecast.date}</td>
                         <td>{forecast.temperatureC}</td>
+                        <td>{forecast.temperatureFeelsLikeC}</td>
                         <td>{forecast.temperatureF}</td>
-                        <td>{forecast.summary}</td>
+                        <td>{forecast.weather}</td>
+                        <td>{forecast.weatherDescription}</td>
+                        <td>{forecast.countryCode}</td>
             </tr>
           )}
         </tbody>
@@ -47,17 +54,17 @@ export class FetchData extends Component {
     return (
       <div>
         <h1 id="tabelLabel" >Weather forecast</h1>
-        <p>This component demonstrates fetching data from the server.</p>
+        <p>This component demonstrates fetching data from server to OpenWeather API.</p>
         {contents}
       </div>
     );
   }
 
   async populateWeatherData() {
-      const response = await fetch('weatherforecast');
+      const response = await fetch('weatherforecast/SearchByCityNameAsync/taipei');
     const data = await response.json();
     this.setState({ forecasts: data, loading: false });
   }
-    
 
 }
+

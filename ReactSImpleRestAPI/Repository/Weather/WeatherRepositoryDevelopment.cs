@@ -13,7 +13,7 @@ namespace ReactSImpleRestAPI.Repository.Weather
     {
         static string txtPath = Path.Combine(Environment.CurrentDirectory, "citylist.json");
         static string wUrl = "http://api.openweathermap.org/data/2.5/weather";
-        static string yourAppId = "input your AppId";
+        static string yourAppId = "your open weather APPID";
         public WeatherRepositoryDevelopment()
         {
         }

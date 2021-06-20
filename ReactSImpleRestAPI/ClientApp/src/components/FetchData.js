@@ -1,4 +1,10 @@
 import React, { Component } from 'react';
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
+import Container from 'react-bootstrap/Container';
+
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
 export class FetchData extends Component {
   static displayName = FetchData.name;
@@ -13,7 +19,31 @@ export class FetchData extends Component {
   }
 
   static renderForecastsTable(forecasts) {
-    return (
+      return (
+          <div>
+        <Card style={{ width: '18rem' }}>
+  <Card.Img variant="top" src="holder.js/100px180" />
+  <Card.Body>
+    <Card.Title>Card Title</Card.Title>
+    <Card.Text>
+                          Some quick example text to build on the card title and make up the bulk of
+                          the card's content.
+    </Card.Text>
+                      <Container>
+                          <Row>
+                              <Col>1 of 3</Col>
+                              <Col xs={6}>2 of 3 (wider)</Col>
+                              <Col>3 of 3</Col>
+                          </Row>
+                          <Row>
+                              <Col>1 of 3</Col>
+                              <Col xs={5}>2 of 3 (wider)</Col>
+                              <Col>3 of 3</Col>
+                          </Row>
+                      </Container>
+    <Button variant="primary">Go somewhere</Button>
+  </Card.Body>
+</Card>
       <table className='table table-striped' aria-labelledby="tabelLabel">
         <thead>
                 <tr>
@@ -42,7 +72,8 @@ export class FetchData extends Component {
             </tr>
           )}
         </tbody>
-      </table>
+              </table>
+              </div>
     );
   }
 

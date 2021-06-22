@@ -11,7 +11,7 @@ namespace ReactSImpleRestAPI.Repository.Weather
 {
     public class WeatherRepositoryDevelopment
     {
-        static string txtPath = Path.Combine(Environment.CurrentDirectory, "citylist.json");
+        static string txtPath = Path.Combine(Environment.CurrentDirectory, "city1.json");
         static string wUrl = "http://api.openweathermap.org/data/2.5/weather";
         static string yourAppId = "your open weather APPID";
         public WeatherRepositoryDevelopment()
@@ -127,7 +127,7 @@ namespace ReactSImpleRestAPI.Repository.Weather
         {
             string json = File.ReadAllText(txtPath);
             //JArray array = JArray.Parse(json);
-            var cityList = JsonConvert.DeserializeObject<List<CityData.Root>>(json);
+            List<CityData.Root> cityList = JsonConvert.DeserializeObject<List<CityData.Root>>(json);
             return cityList;
         }
 

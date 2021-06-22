@@ -1,0 +1,3160 @@
+[
+{
+  "id": 14256,
+  "coord": {
+    "lon": 48.570728,
+    "lat": 34.790878
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 132142
+  },
+  
+  "name": "Azadshahr",
+  "stat": {
+    "level": 1,
+    "population": 514102
+  },
+  "zoom": 10
+},
+{
+  "id": 18918,
+  "coord": {
+    "lon": 34.058331,
+    "lat": 35.012501
+  },
+  "country": "CY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 146615
+  },
+  "name": "Protaras",
+  "stat": {
+    "level": 1,
+    "population": 20230
+  },
+  "zoom": 6
+},
+{
+  "id": 23814,
+  "coord": {
+    "lon": 47.055302,
+    "lat": 34.383801
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 128222
+  },
+  "name": "Kahriz",
+  "stat": {
+    "level": 1,
+    "population": 766706
+  },    
+  "zoom": 7
+},
+{
+  "id": 24851,
+  "coord": {
+    "lon": 47.9725,
+    "lat": 34.073399
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 125605
+  },    "name": "Nurabad",
+  "stat": {
+    "level": 1,
+    "population": 73528
+  },
+  "zoom": 9
+},
+{
+  "id": 32723,
+  "coord": {
+    "lon": 52.309422,
+    "lat": 35.23455
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 116401
+  },
+  "name": "Istgah-e Garmsar",
+  "stat": {
+    "level": 1,
+    "population": 49491
+  },
+  "zoom": 8
+},
+{
+  "id": 32767,
+  "coord": {
+    "lon": 51.56889,
+    "lat": 35.439442
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 110791
+  },
+  "name": "Qarchak",
+  "stat": {
+    "level": 1,
+    "population": 251834
+  },
+  "zoom": 9
+},
+{
+  "id": 41210,
+  "coord": {
+    "lon": 49.195999,
+    "lat": 36.213001
+  },
+  "country": "IR",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 111452
+  },
+  "name": "Khorram Darreh",
+  "stat": {
+    "level": 1,
+    "population": 50528
+  },
+  "zoom": 12
+},
+{
+  "id": 50672,
+  "coord": {
+    "lon": 44.893799,
+    "lat": 2.6185
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 51966
+  },
+  "name": "Wanlaweyn",
+  "stat": {
+    "level": 1,
+    "population": 22022
+  },
+  "zoom": 9
+},
+{
+  "id": 52867,
+  "coord": {
+    "lon": 44.529991,
+    "lat": 1.78784
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 51966
+  },
+  "name": "Qoryooley",
+  "stat": {
+    "level": 1,
+    "population": 51720
+  },
+  "zoom": 8
+},
+{
+  "id": 53157,
+  "coord": {
+    "lon": 49.872822,
+    "lat": 11.47197
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 64661
+  },
+  "name": "Qandala",
+  "stat": {
+    "level": 1,
+    "population": 15923
+  },
+  "zoom": 8
+},
+{
+  "id": 53654,
+  "coord": {
+    "lon": 45.34375,
+    "lat": 2.03711
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLC",
+    "parent": 64833
+  },
+  "name": "Mogadishu",
+  "stat": {
+    "level": 1,
+    "population": 2587183
+  },
+  "zoom": 1
+},
+{
+  "id": 54715,
+  "coord": {
+    "lon": 42.544498,
+    "lat": 3.79376
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 58802
+  },
+  "name": "Luuq",
+  "stat": {
+    "level": 1,
+    "population": 33820
+  },
+  "zoom": 8
+},
+{
+  "id": 55671,
+  "coord": {
+    "lon": 42.545361,
+    "lat": -0.35817
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 56083
+  },
+  "name": "Kismaayo",
+  "stat": {
+    "level": 1,
+    "population": 234852
+  },
+  "zoom": 6
+},
+{
+  "id": 56166,
+  "coord": {
+    "lon": 42.785351,
+    "lat": 0.48829
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 56084
+  },
+  "name": "Jilib",
+  "stat": {
+    "level": 1,
+    "population": 43694
+  },
+  "zoom": 9
+},
+{
+  "id": 56335,
+  "coord": {
+    "lon": 45.500481,
+    "lat": 2.78087
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 51967
+  },
+  "name": "Jawhar",
+  "stat": {
+    "level": 1,
+    "population": 47086
+  },
+  "zoom": 8
+},
+{
+  "id": 56399,
+  "coord": {
+    "lon": 42.744968,
+    "lat": 0.06968
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 56083
+  },
+  "name": "Jamaame",
+  "stat": {
+    "level": 1,
+    "population": 185270
+  },
+  "zoom": 6
+},
+{
+  "id": 57289,
+  "coord": {
+    "lon": 44.064999,
+    "lat": 9.56
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 50360
+  },
+  "name": "Hargeysa",
+  "stat": {
+    "level": 1,
+    "population": 477876
+  },
+  "zoom": 6
+},
+{
+  "id": 59611,
+  "coord": {
+    "lon": 47.430828,
+    "lat": 6.76972
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 53707
+  },
+  "name": "Gaalkacyo",
+  "stat": {
+    "level": 1,
+    "population": 61200
+  },
+  "zoom": 7
+},
+{
+  "id": 60019,
+  "coord": {
+    "lon": 49.816399,
+    "lat": 7.9803
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 53477
+  },
+  "name": "Eyl",
+  "stat": {
+    "level": 1,
+    "population": 18904
+  },
+  "zoom": 5
+},
+{
+  "id": 62691,
+  "coord": {
+    "lon": 47.36795,
+    "lat": 10.61616
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 52187
+  },
+  "name": "Ceerigaabo",
+  "stat": {
+    "level": 1,
+    "population": 33853
+  },
+  "zoom": 7
+},
+{
+  "id": 62788,
+  "coord": {
+    "lon": 47.180641,
+    "lat": 3.84878
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 59362
+  },
+  "name": "Ceeldheer",
+  "stat": {
+    "level": 1,
+    "population": 26562
+  },
+  "zoom": 6
+},
+{
+  "id": 63571,
+  "coord": {
+    "lon": 44.07806,
+    "lat": 2.80257
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 64538
+  },
+  "name": "Buurhakaba",
+  "stat": {
+    "level": 1,
+    "population": 27792
+  },
+  "zoom": 9
+},
+{
+  "id": 63689,
+  "coord": {
+    "lon": 45.56744,
+    "lat": 3.85375
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 57060
+  },
+  "name": "Buulobarde",
+  "stat": {
+    "level": 1,
+    "population": 16928
+  },
+  "zoom": 8
+},
+{
+  "id": 63795,
+  "coord": {
+    "lon": 45.53363,
+    "lat": 9.52212
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 51230
+  },
+  "name": "Burco",
+  "stat": {
+    "level": 1,
+    "population": 99270
+  },
+  "zoom": 6
+},
+{
+  "id": 64013,
+  "coord": {
+    "lon": 49.18158,
+    "lat": 11.28421
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 64661
+  },
+  "name": "Boosaaso",
+  "stat": {
+    "level": 1,
+    "population": 74287
+  },
+  "zoom": 6
+},
+{
+  "id": 64435,
+  "coord": {
+    "lon": 45.01432,
+    "lat": 10.43959
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 50360
+  },
+  "name": "Berbera",
+  "stat": {
+    "level": 1,
+    "population": 242344
+  },
+  "zoom": 8
+},
+{
+  "id": 64460,
+  "coord": {
+    "lon": 45.203609,
+    "lat": 4.73583
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 57060
+  },
+  "name": "Beledweyne",
+  "stat": {
+    "level": 1,
+    "population": 55410
+  },
+  "zoom": 7
+},
+{
+  "id": 64536,
+  "coord": {
+    "lon": 43.649799,
+    "lat": 3.11383
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 64538
+  },
+  "name": "Baydhabo",
+  "stat": {
+    "level": 1,
+    "population": 129839
+  },
+  "zoom": 7
+},
+{
+  "id": 65170,
+  "coord": {
+    "lon": 42.27644,
+    "lat": 2.34464
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLL",
+    "parent": 58802
+  },
+  "name": "Baardheere",
+  "stat": {
+    "level": 1,
+    "population": 42240
+  },
+  "zoom": 7
+},
+{
+  "id": 65785,
+  "coord": {
+    "lon": 45.121201,
+    "lat": 2.1381
+  },
+  "country": "SO",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 51966
+  },
+  "name": "Afgooye",
+  "stat": {
+    "level": 1,
+    "population": 65461
+  },
+  "zoom": 10
+},
+{
+  "id": 69500,
+  "coord": {
+    "lon": 43.315182,
+    "lat": 14.1951
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 69499
+  },
+  "name": "Zabid",
+  "stat": {
+    "level": 1,
+    "population": 52590
+  },
+  "stations": [
+    {
+      "id": 7178,
+      "dist": 71,
+      "kf": 1
+    }
+  ],
+  "zoom": 8
+},
+{
+  "id": 69559,
+  "coord": {
+    "lon": 44.377949,
+    "lat": 14.29804
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 69558
+  },
+  "name": "Yarim",
+  "stat": {
+    "level": 1,
+    "population": 33050
+  },
+  "zoom": 9
+},
+{
+  "id": 70225,
+  "coord": {
+    "lon": 44.020908,
+    "lat": 13.57952
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940691
+  },
+  "name": "Taizz",
+  "stat": {
+    "level": 1,
+    "population": 615222
+  },
+  "zoom": 7
+},
+{
+  "id": 70979,
+  "coord": {
+    "lon": 44.324421,
+    "lat": 15.17177
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 71131
+  },
+  "name": "Sayyan",
+  "stat": {
+    "level": 1,
+    "population": 69404
+  },
+  "stations": [
+    {
+      "id": 7185,
+      "dist": 28,
+      "kf": 1
+    }
+  ],
+  "zoom": 11
+},
+{
+  "id": 71137,
+  "coord": {
+    "lon": 44.206669,
+    "lat": 15.35472
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLC",
+    "parent": 6940658
+  },
+  "name": "Sanaa",
+  "stat": {
+    "level": 1,
+    "population": 1937451
+  },
+  "zoom": 5
+},
+{
+  "id": 71273,
+  "coord": {
+    "lon": 44.308578,
+    "lat": 15.31586
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 71131
+  },
+  "name": "Sahar",
+  "stat": {
+    "level": 1,
+    "population": 31859
+  },
+  "zoom": 11
+},
+{
+  "id": 73560,
+  "coord": {
+    "lon": 44.881939,
+    "lat": 13.05667
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940822
+  },
+  "name": "Lahij",
+  "stat": {
+    "level": 1,
+    "population": 23375
+  },
+  "zoom": 10
+},
+{
+  "id": 74477,
+  "coord": {
+    "lon": 44.183331,
+    "lat": 13.96667
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940641
+  },
+  "name": "Ibb",
+  "stat": {
+    "level": 1,
+    "population": 234837
+  },
+  "zoom": 7
+},
+{
+  "id": 75337,
+  "coord": {
+    "lon": 43.60582,
+    "lat": 15.69425
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 75334
+  },
+  "name": "Hajjah",
+  "stat": {
+    "level": 1,
+    "population": 43549
+  },
+  "zoom": 8
+},
+{
+  "id": 76154,
+  "coord": {
+    "lon": 44.114689,
+    "lat": 13.83446
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 76153
+  },
+  "name": "Dhi as Sufal",
+  "stat": {
+    "level": 1,
+    "population": 37997
+  },
+  "zoom": 11
+},
+{
+  "id": 76991,
+  "coord": {
+    "lon": 43.324459,
+    "lat": 14.51635
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 76989
+  },
+  "name": "Bayt al Faqih",
+  "stat": {
+    "level": 1,
+    "population": 34204
+  },
+  "stations": [
+    {
+      "id": 7178,
+      "dist": 45,
+      "kf": 1
+    }
+  ],
+  "zoom": 9
+},
+{
+  "id": 77408,
+  "coord": {
+    "lon": 43.285061,
+    "lat": 15.05835
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA2",
+    "parent": 77407
+  },
+  "name": "Bajil",
+  "stat": {
+    "level": 1,
+    "population": 48218
+  },
+  "zoom": 9
+},
+{
+  "id": 78754,
+  "coord": {
+    "lon": 49.124241,
+    "lat": 14.54248
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940756
+  },
+  "name": "Al Mukalla",
+  "stat": {
+    "level": 1,
+    "population": 258132
+  },
+  "zoom": 6
+},
+{
+  "id": 79415,
+  "coord": {
+    "lon": 42.954521,
+    "lat": 14.79781
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940612
+  },
+  "name": "Al Hudaydah",
+  "stat": {
+    "level": 1,
+    "population": 617871
+  },
+  "zoom": 7
+},
+{
+  "id": 79836,
+  "coord": {
+    "lon": 45.57272,
+    "lat": 13.98523
+  },
+  "country": "YE",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 6940677
+  },
+  "name": "Al Bayda",
+  "stat": {
+    "level": 1,
+    "population": 37821
+  },
+  "zoom": 7
+},
+{
+  "id": 81302,
+  "coord": {
+    "lon": 23.976391,
+    "lat": 32.083611
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 7602688
+  },
+  "name": "Tobruk",
+  "stat": {
+    "level": 1,
+    "population": 121052
+  },
+  "zoom": 4
+},
+{
+  "id": 81604,
+  "coord": {
+    "lon": 20.25205,
+    "lat": 31.66818
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "Suluq",
+  "stat": {
+    "level": 1,
+    "population": 15543
+  },
+  "zoom": 8
+},
+{
+  "id": 87205,
+  "coord": {
+    "lon": 22.63669,
+    "lat": 32.76704
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 87204
+  },
+  "name": "Darnah",
+  "stat": {
+    "level": 1,
+    "population": 78782
+  },
+  "zoom": 8
+},
+{
+  "id": 88319,
+  "coord": {
+    "lon": 20.066669,
+    "lat": 32.116669
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 2215636
+  },
+  "name": "Benghazi",
+  "stat": {
+    "level": 1,
+    "population": 650629
+  },
+  "zoom": 1
+},
+{
+  "id": 88380,
+  "coord": {
+    "lon": 20.12022,
+    "lat": 30.9522
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "Az Zuwaytinah",
+  "stat": {
+    "level": 1,
+    "population": 21015
+  },
+  "zoom": 10
+},
+{
+  "id": 88562,
+  "coord": {
+    "lon": 23.2857,
+    "lat": 24.20487
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "At Taj",
+  "stat": {
+    "level": 1,
+    "population": 46050
+  },
+  "zoom": 5
+},
+{
+  "id": 88834,
+  "coord": {
+    "lon": 20.579109,
+    "lat": 32.534142
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "Al Aquriyah",
+  "stat": {
+    "level": 1,
+    "population": 23164
+  },
+  "zoom": 10
+},
+{
+  "id": 88835,
+  "coord": {
+    "lon": 22.242371,
+    "lat": 32.76162
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "Al Qubbah",
+  "stat": {
+    "level": 1,
+    "population": 53064
+  },
+  "zoom": 9
+},
+{
+  "id": 88903,
+  "coord": {
+    "lon": 20.831739,
+    "lat": 32.48798
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 88904
+  },
+  "name": "Al Marj",
+  "stat": {
+    "level": 1,
+    "population": 85315
+  },
+  "zoom": 9
+},
+{
+  "id": 89055,
+  "coord": {
+    "lon": 21.75506,
+    "lat": 32.762718
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 443289
+  },
+  "name": "Al Bayda",
+  "stat": {
+    "level": 1,
+    "population": 206180
+  },
+  "zoom": 6
+},
+{
+  "id": 89087,
+  "coord": {
+    "lon": 20.596531,
+    "lat": 32.189999
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 2215636
+  },
+  "name": "Al Abyar",
+  "stat": {
+    "level": 1,
+    "population": 32563
+  },
+  "zoom": 9
+},
+{
+  "id": 89113,
+  "coord": {
+    "lon": 20.226259,
+    "lat": 30.755449
+  },
+  "country": "LY",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 7602692
+  },
+  "name": "Ajdabiya",
+  "stat": {
+    "level": 1,
+    "population": 134358
+  },
+  "zoom": 7
+},
+{
+  "id": 89570,
+  "coord": {
+    "lon": 42.700081,
+    "lat": 37.14817
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 97270
+  },
+  "name": "Zakhu",
+  "stat": {
+    "level": 1,
+    "population": 95052
+  },
+  "zoom": 8
+},
+{
+  "id": 89824,
+  "coord": {
+    "lon": 47.916771,
+    "lat": 30.040541
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89341
+  },
+  "name": "Umm Qasr",
+  "stat": {
+    "level": 1,
+    "population": 107620
+  },
+  "zoom": 9
+},
+{
+  "id": 90026,
+  "coord": {
+    "lon": 44.62994,
+    "lat": 34.890461
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 91695
+  },
+  "name": "Tozkhurmato",
+  "stat": {
+    "level": 1,
+    "population": 59886
+  },
+  "zoom": 8
+},
+{
+  "id": 90150,
+  "coord": {
+    "lon": 43.678219,
+    "lat": 34.607121
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 91695
+  },
+  "name": "Tikrit",
+  "stat": {
+    "level": 1,
+    "population": 42477
+  },
+  "zoom": 8
+},
+{
+  "id": 90353,
+  "coord": {
+    "lon": 43.119171,
+    "lat": 36.489441
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 92877
+  },
+  "name": "Qada Talkif",
+  "stat": {
+    "level": 1,
+    "population": 23524
+  },
+  "zoom": 10
+},
+{
+  "id": 90708,
+  "coord": {
+    "lon": 43.03886,
+    "lat": 36.809021
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 97270
+  },
+  "name": "Sinah",
+  "stat": {
+    "level": 1,
+    "population": 128776
+  },
+  "zoom": 7
+},
+{
+  "id": 91597,
+  "coord": {
+    "lon": 43.875622,
+    "lat": 34.200958
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 91695
+  },
+  "name": "Samarra",
+  "stat": {
+    "level": 1,
+    "population": 158508
+  },
+  "zoom": 8
+},
+{
+  "id": 91812,
+  "coord": {
+    "lon": 44.280281,
+    "lat": 32.714722
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98227
+  },
+  "name": "Nahiyat Saddat al Hindiyah",
+  "stat": {
+    "level": 1,
+    "population": 30622
+  },
+  "zoom": 12
+},
+{
+  "id": 92002,
+  "coord": {
+    "lon": 44.531109,
+    "lat": 36.61631
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 95445
+  },
+  "name": "Rawanduz",
+  "stat": {
+    "level": 1,
+    "population": 22943
+  },
+  "zoom": 7
+},
+{
+  "id": 92004,
+  "coord": {
+    "lon": 41.909302,
+    "lat": 34.48164
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99592
+  },
+  "name": "Rawah",
+  "stat": {
+    "level": 1,
+    "population": 20580
+  },
+  "zoom": 9
+},
+{
+  "id": 92430,
+  "coord": {
+    "lon": 43.37373,
+    "lat": 36.271461
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 92877
+  },
+  "name": "Qada al Hamdaniyah",
+  "stat": {
+    "level": 1,
+    "population": 28448
+  },
+  "zoom": 10
+},
+{
+  "id": 93709,
+  "coord": {
+    "lon": 45.5541,
+    "lat": 33.749859
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 96965
+  },
+  "name": "Mandali",
+  "stat": {
+    "level": 1,
+    "population": 29785
+  },
+  "zoom": 8
+},
+{
+  "id": 94220,
+  "coord": {
+    "lon": 44.627781,
+    "lat": 36.082142
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 95445
+  },
+  "name": "Koysinceq",
+  "stat": {
+    "level": 1,
+    "population": 44987
+  },
+  "zoom": 9
+},
+{
+  "id": 94298,
+  "coord": {
+    "lon": 44.966099,
+    "lat": 34.695869
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 96965
+  },
+  "name": "Kifri",
+  "stat": {
+    "level": 1,
+    "population": 30143
+  },
+  "zoom": 7
+},
+{
+  "id": 94787,
+  "coord": {
+    "lon": 44.39222,
+    "lat": 35.46806
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 98410
+  },
+  "name": "Kirkuk",
+  "stat": {
+    "level": 1,
+    "population": 601433
+  },
+  "zoom": 7
+},
+{
+  "id": 94824,
+  "coord": {
+    "lon": 44.024879,
+    "lat": 32.616032
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 94823
+  },
+  "name": "Karbala",
+  "stat": {
+    "level": 1,
+    "population": 434450
+  },
+  "zoom": 8
+},
+{
+  "id": 95446,
+  "coord": {
+    "lon": 44.01062,
+    "lat": 36.19257
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 95445
+  },
+  "name": "Erbil",
+  "stat": {
+    "level": 1,
+    "population": 932800
+  },
+  "zoom": 8
+},
+{
+  "id": 95788,
+  "coord": {
+    "lon": 42.825089,
+    "lat": 33.64159
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99592
+  },
+  "name": "Hit",
+  "stat": {
+    "level": 1,
+    "population": 31901
+  },
+  "zoom": 7
+},
+{
+  "id": 96205,
+  "coord": {
+    "lon": 45.986111,
+    "lat": 35.17778
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98465
+  },
+  "name": "Halabjah",
+  "stat": {
+    "level": 1,
+    "population": 57333
+  },
+  "zoom": 8
+},
+{
+  "id": 96309,
+  "coord": {
+    "lon": 42.378059,
+    "lat": 34.139721
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99592
+  },
+  "name": "Hadithah",
+  "stat": {
+    "level": 1,
+    "population": 30925
+  },
+  "zoom": 8
+},
+{
+  "id": 97417,
+  "coord": {
+    "lon": 44.831669,
+    "lat": 35.53653
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98465
+  },
+  "name": "Chamchamal",
+  "stat": {
+    "level": 1,
+    "population": 75634
+  },
+  "zoom": 9
+},
+{
+  "id": 97783,
+  "coord": {
+    "lon": 43.487,
+    "lat": 34.931141
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 91695
+  },
+  "name": "Bayji",
+  "stat": {
+    "level": 1,
+    "population": 36454
+  },
+  "zoom": 9
+},
+{
+  "id": 97990,
+  "coord": {
+    "lon": 44.655449,
+    "lat": 33.748459
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 96965
+  },
+  "name": "Baqubah",
+  "stat": {
+    "level": 1,
+    "population": 152550
+  },
+  "zoom": 6
+},
+{
+  "id": 98012,
+  "coord": {
+    "lon": 45.954102,
+    "lat": 35.618301
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98465
+  },
+  "name": "Paynjuwayn",
+  "stat": {
+    "level": 1,
+    "population": 27116
+  },
+  "zoom": 9
+},
+{
+  "id": 98112,
+  "coord": {
+    "lon": 44.145309,
+    "lat": 34.01638
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 91695
+  },
+  "name": "Balad",
+  "stat": {
+    "level": 1,
+    "population": 42088
+  },
+  "zoom": 10
+},
+{
+  "id": 98182,
+  "coord": {
+    "lon": 44.400879,
+    "lat": 33.34058
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLC",
+    "parent": 98180
+  },
+  "name": "Baghdad",
+  "stat": {
+    "level": 1,
+    "population": 5672513
+  },
+  "zoom": 1
+},
+{
+  "id": 98245,
+  "coord": {
+    "lon": 47.701141,
+    "lat": 30.39447
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89341
+  },
+  "name": "Az Zubayr",
+  "stat": {
+    "level": 1,
+    "population": 122676
+  },
+  "zoom": 7
+},
+{
+  "id": 98459,
+  "coord": {
+    "lon": 44.775829,
+    "lat": 32.92556
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89693
+  },
+  "name": "As Suwayrah",
+  "stat": {
+    "level": 1,
+    "population": 42354
+  },
+  "zoom": 10
+},
+{
+  "id": 98463,
+  "coord": {
+    "lon": 45.437489,
+    "lat": 35.561131
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 98465
+  },
+  "name": "As Sulaymaniyah",
+  "stat": {
+    "level": 1,
+    "population": 723170
+  },
+  "zoom": 7
+},
+{
+  "id": 98530,
+  "coord": {
+    "lon": 45.294399,
+    "lat": 31.33198
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 99032
+  },
+  "name": "As Samawah",
+  "stat": {
+    "level": 1,
+    "population": 152890
+  },
+  "zoom": 8
+},
+{
+  "id": 98589,
+  "coord": {
+    "lon": 44.66016,
+    "lat": 31.58737
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99022
+  },
+  "name": "Nahiyat ash Shinafiyah",
+  "stat": {
+    "level": 1,
+    "population": 22643
+  },
+  "zoom": 10
+},
+{
+  "id": 98622,
+  "coord": {
+    "lon": 46.174179,
+    "lat": 31.411711
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 97019
+  },
+  "name": "Ash Shatrah",
+  "stat": {
+    "level": 1,
+    "population": 82732
+  },
+  "zoom": 8
+},
+{
+  "id": 98629,
+  "coord": {
+    "lon": 44.599041,
+    "lat": 31.963619
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99022
+  },
+  "zoom": 9
+},
+{
+  "id": 98677,
+  "coord": {
+    "lon": 40.284821,
+    "lat": 33.038071
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99592
+  },
+  "name": "Ar Rutbah",
+  "stat": {
+    "level": 1,
+    "population": 22370
+  },
+  "zoom": 7
+},
+{
+  "id": 98685,
+  "coord": {
+    "lon": 45.202461,
+    "lat": 31.526291
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99032
+  },
+  "name": "Ar Rumaythah",
+  "stat": {
+    "level": 1,
+    "population": 47248
+  },
+  "zoom": 10
+},
+{
+  "id": 98717,
+  "coord": {
+    "lon": 43.30584,
+    "lat": 33.422569
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 99592
+  },
+  "name": "Ar Ramadi",
+  "stat": {
+    "level": 1,
+    "population": 274539
+  },
+  "zoom": 8
+},
+{
+  "id": 98854,
+  "coord": {
+    "lon": 46.261021,
+    "lat": 31.05205
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 97019
+  },
+  "name": "An Nasiriyah",
+  "stat": {
+    "level": 1,
+    "population": 400249
+  },
+  "zoom": 7
+},
+{
+  "id": 98860,
+  "coord": {
+    "lon": 44.33976,
+    "lat": 31.998541
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 98862
+  },
+  "name": "An Najaf al Ashraf",
+  "stat": {
+    "level": 1,
+    "population": 482576
+  },
+  "zoom": 5
+},
+{
+  "id": 98885,
+  "coord": {
+    "lon": 41.933102,
+    "lat": 34.465889
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLW",
+    "parent": 99592
+  },
+  "name": "Anat al Qadimah",
+  "stat": {
+    "level": 1,
+    "population": 19719
+  },
+  "zoom": 13
+},
+{
+  "id": 99010,
+  "coord": {
+    "lon": 44.682812,
+    "lat": 32.297989
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98227
+  },
+  "name": "Imam Qasim",
+  "stat": {
+    "level": 1,
+    "population": 36992
+  },
+  "zoom": 10
+},
+{
+  "id": 99039,
+  "coord": {
+    "lon": 44.282509,
+    "lat": 32.783321
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98227
+  },
+  "name": "Al Musayyib",
+  "stat": {
+    "level": 1,
+    "population": 42901
+  },
+  "stations": [
+    {
+      "id": 8437,
+      "dist": 43,
+      "kf": 1
+    }
+  ],
+  "zoom": 10
+},
+{
+  "id": 99060,
+  "coord": {
+    "lon": 44.49107,
+    "lat": 31.804159
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98862
+  },
+  "name": "Al Mishkhab",
+  "stat": {
+    "level": 1,
+    "population": 23189
+  },
+  "zoom": 11
+},
+{
+  "id": 99062,
+  "coord": {
+    "lon": 44.936939,
+    "lat": 33.978611
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 96965
+  },
+  "name": "Al Miqdadiyah",
+  "stat": {
+    "level": 1,
+    "population": 50698
+  },
+  "zoom": 9
+},
+{
+  "id": 99071,
+  "coord": {
+    "lon": 43.097771,
+    "lat": 36.334641
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLX",
+    "parent": 99072
+  },
+  "name": "Al Mawsil al Jadidah",
+  "stat": {
+    "level": 1,
+    "population": 2065597
+  },
+  "zoom": 5
+},
+{
+  "id": 99072,
+  "coord": {
+    "lon": 43.118889,
+    "lat": 36.334999
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 92877
+  },
+  "name": "Mosul",
+  "stat": {
+    "level": 1,
+    "population": 1739800
+  },
+  "zoom": 7
+},
+{
+  "id": 99097,
+  "coord": {
+    "lon": 47.175289,
+    "lat": 31.572321
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 93540
+  },
+  "name": "Al Majar al Kabir",
+  "stat": {
+    "level": 1,
+    "population": 35515
+  },
+  "zoom": 10
+},
+{
+  "id": 99131,
+  "coord": {
+    "lon": 45.819019,
+    "lat": 32.514702
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 89693
+  },
+  "name": "Al Kut",
+  "stat": {
+    "level": 1,
+    "population": 315162
+  },
+  "zoom": 8
+},
+{
+  "id": 99169,
+  "coord": {
+    "lon": 44.526371,
+    "lat": 33.819962
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 96965
+  },
+  "name": "Khalis",
+  "stat": {
+    "level": 1,
+    "population": 70046
+  },
+  "zoom": 9
+},
+{
+  "id": 99306,
+  "coord": {
+    "lon": 46.686371,
+    "lat": 32.463261
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 93540
+  },
+  "name": "Ali al Gharbi",
+  "stat": {
+    "level": 1,
+    "population": 19711
+  },
+  "zoom": 8
+},
+{
+  "id": 99344,
+  "coord": {
+    "lon": 44.2225,
+    "lat": 32.543331
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 94823
+  },
+  "name": "Al Hindiyah",
+  "stat": {
+    "level": 1,
+    "population": 57490
+  },
+  "zoom": 10
+},
+{
+  "id": 99347,
+  "coord": {
+    "lon": 44.435261,
+    "lat": 32.480141
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 98227
+  },
+  "name": "Al Hillah",
+  "stat": {
+    "level": 1,
+    "population": 289709
+  },
+  "zoom": 9
+},
+{
+  "id": 99350,
+  "coord": {
+    "lon": 46.043301,
+    "lat": 32.173489
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89693
+  },
+  "name": "Al Hayy",
+  "stat": {
+    "level": 1,
+    "population": 78272
+  },
+  "zoom": 9
+},
+{
+  "id": 99369,
+  "coord": {
+    "lon": 47.720829,
+    "lat": 30.718611
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89341
+  },
+  "name": "Al Harithah",
+  "stat": {
+    "level": 1,
+    "population": 92395
+  },
+  "zoom": 8
+},
+{
+  "id": 99434,
+  "coord": {
+    "lon": 44.619598,
+    "lat": 31.743111
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99022
+  },
+  "name": "Nahiyat Ghammas",
+  "stat": {
+    "level": 1,
+    "population": 30909
+  },
+  "zoom": 10
+},
+{
+  "id": 99439,
+  "coord": {
+    "lon": 46.722778,
+    "lat": 30.969721
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 97019
+  },
+  "name": "Nahiyat al Fuhud",
+  "stat": {
+    "level": 1,
+    "population": 21551
+  },
+  "zoom": 9
+},
+{
+  "id": 99446,
+  "coord": {
+    "lon": 48.474121,
+    "lat": 29.977631
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89341
+  },
+  "name": "Al Faw",
+  "stat": {
+    "level": 1,
+    "population": 104569
+  },
+  "zoom": 9
+},
+{
+  "id": 99454,
+  "coord": {
+    "lon": 43.77951,
+    "lat": 33.353802
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99592
+  },
+  "name": "Al Fallujah",
+  "stat": {
+    "level": 1,
+    "population": 190159
+  },
+  "zoom": 9
+},
+{
+  "id": 99532,
+  "coord": {
+    "lon": 47.788849,
+    "lat": 30.53488
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 89341
+  },
+  "name": "Al Basrah",
+  "stat": {
+    "level": 1,
+    "population": 2600000
+  },
+  "zoom": 6
+},
+{
+  "id": 99548,
+  "coord": {
+    "lon": 45.06163,
+    "lat": 32.90583
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 89693
+  },
+  "name": "Al Aziziyah",
+  "stat": {
+    "level": 1,
+    "population": 44751
+  },
+  "zoom": 8
+},
+{
+  "id": 99608,
+  "coord": {
+    "lon": 47.139599,
+    "lat": 31.840639
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 93540
+  },
+  "name": "Al Amarah",
+  "stat": {
+    "level": 1,
+    "population": 323302
+  },
+  "zoom": 7
+},
+{
+  "id": 99738,
+  "coord": {
+    "lon": 45.250549,
+    "lat": 32.068981
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 99022
+  },
+  "name": "Afak",
+  "stat": {
+    "level": 1,
+    "population": 21888
+  },
+  "zoom": 9
+},
+{
+  "id": 99759,
+  "coord": {
+    "lon": 44.23444,
+    "lat": 33.846668
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 91695
+  },
+  "name": "Ad Dujayl",
+  "stat": {
+    "level": 1,
+    "population": 26362
+  },
+  "zoom": 10
+},
+{
+  "id": 99762,
+  "coord": {
+    "lon": 44.93063,
+    "lat": 31.990511
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 99022
+  },
+  "name": "Ad Diwaniyah",
+  "stat": {
+    "level": 1,
+    "population": 318801
+  },
+  "zoom": 9
+},
+{
+  "id": 100077,
+  "coord": {
+    "lon": 44.185001,
+    "lat": 33.308331
+  },
+  "country": "IQ",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 98180
+  },
+  "name": "Abu Ghurayb",
+  "stat": {
+    "level": 1,
+    "population": 900000
+  },
+  "zoom": 10
+},
+{
+  "id": 100425,
+  "coord": {
+    "lon": 38.06374,
+    "lat": 24.089121
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109224
+  },
+  "name": "Yanbu al Bahr",
+  "stat": {
+    "level": 1,
+    "population": 200161
+  },
+  "zoom": 7
+},
+{
+  "id": 100926,
+  "coord": {
+    "lon": 37.268501,
+    "lat": 25.021259
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 101627
+  },
+  "name": "Umm Lajj",
+  "stat": {
+    "level": 1,
+    "population": 33874
+  },
+  "zoom": 8
+},
+{
+  "id": 101312,
+  "coord": {
+    "lon": 38.663738,
+    "lat": 31.67252
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Turayf",
+  "stat": {
+    "level": 1,
+    "population": 40819
+  },
+  "zoom": 7
+},
+{
+  "id": 101322,
+  "coord": {
+    "lon": 41.633099,
+    "lat": 21.21406
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 104514
+  },
+  "name": "Turabah",
+  "stat": {
+    "level": 1,
+    "population": 23235
+  },
+  "zoom": 8
+},
+{
+  "id": 101554,
+  "coord": {
+    "lon": 50.036942,
+    "lat": 26.57332
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Tarut",
+  "stat": {
+    "level": 1,
+    "population": 85371
+  },
+  "zoom": 10
+},
+{
+  "id": 101628,
+  "coord": {
+    "lon": 36.583328,
+    "lat": 28.383329
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 101627
+  },
+  "name": "Tabuk",
+  "stat": {
+    "level": 1,
+    "population": 15000
+  },
+  "zoom": 5
+},
+{
+  "id": 101631,
+  "coord": {
+    "lon": 38.21603,
+    "lat": 30.49987
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109470
+  },
+  "name": "Tubarjal",
+  "stat": {
+    "level": 1,
+    "population": 40019
+  },
+  "zoom": 6
+},
+{
+  "id": 101760,
+  "coord": {
+    "lon": 39.58572,
+    "lat": 24.49258
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109224
+  },
+  "name": "Sultanah",
+  "stat": {
+    "level": 1,
+    "population": 946697
+  },
+  "zoom": 13
+},
+{
+  "id": 102318,
+  "coord": {
+    "lon": 50.040459,
+    "lat": 26.48522
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Sayhat",
+  "stat": {
+    "level": 1,
+    "population": 66702
+  },
+  "zoom": 13
+},
+{
+  "id": 102451,
+  "coord": {
+    "lon": 42.944351,
+    "lat": 16.59601
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 105298
+  },
+  "name": "Samitah",
+  "stat": {
+    "level": 1,
+    "population": 26945
+  },
+  "zoom": 9
+},
+{
+  "id": 102527,
+  "coord": {
+    "lon": 40.206409,
+    "lat": 29.96974
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109470
+  },
+  "name": "Sakaka",
+  "stat": {
+    "level": 1,
+    "population": 128332
+  },
+  "zoom": 7
+},
+{
+  "id": 102585,
+  "coord": {
+    "lon": 49.952229,
+    "lat": 26.64986
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Safwa",
+  "stat": {
+    "level": 1,
+    "population": 45876
+  },
+  "zoom": 11
+},
+{
+  "id": 102651,
+  "coord": {
+    "lon": 42.62537,
+    "lat": 17.1495
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 105298
+  },
+  "name": "Sabya",
+  "stat": {
+    "level": 1,
+    "population": 54108
+  },
+  "zoom": 10
+},
+{
+  "id": 102985,
+  "coord": {
+    "lon": 50.061939,
+    "lat": 26.707911
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Rahimah",
+  "stat": {
+    "level": 1,
+    "population": 41188
+  },
+  "zoom": 11
+},
+{
+  "id": 103035,
+  "coord": {
+    "lon": 39.034931,
+    "lat": 22.798559
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 104514
+  },
+  "name": "Rabigh",
+  "stat": {
+    "level": 1,
+    "population": 41759
+  },
+  "zoom": 7
+},
+{
+  "id": 103369,
+  "coord": {
+    "lon": 42.605202,
+    "lat": 20.00054
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Qalat Bishah",
+  "stat": {
+    "level": 1,
+    "population": 81828
+  },
+  "zoom": 8
+},
+{
+  "id": 103630,
+  "coord": {
+    "lon": 44.127659,
+    "lat": 17.492399
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Najran",
+  "stat": {
+    "level": 1,
+    "population": 258573
+  },
+  "zoom": 7
+},
+{
+  "id": 104515,
+  "coord": {
+    "lon": 39.826111,
+    "lat": 21.42667
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 104514
+  },
+  "name": "Mecca",
+  "stat": {
+    "level": 1,
+    "population": 1323624
+  },
+  "zoom": 9
+},
+{
+  "id": 105072,
+  "coord": {
+    "lon": 42.729172,
+    "lat": 18.306391
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Khamis Mushayt",
+  "stat": {
+    "level": 1,
+    "population": 387553
+  },
+  "zoom": 6
+},
+{
+  "id": 105299,
+  "coord": {
+    "lon": 42.551109,
+    "lat": 16.88917
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 105298
+  },
+  "name": "Jizan",
+  "stat": {
+    "level": 1,
+    "population": 105198
+  },
+  "zoom": 7
+},
+{
+  "id": 105343,
+  "coord": {
+    "lon": 39.21917,
+    "lat": 21.516939
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 104514
+  },
+  "name": "Jeddah",
+  "stat": {
+    "level": 1,
+    "population": 2867446
+  },
+  "zoom": 1
+},
+{
+  "id": 106281,
+  "coord": {
+    "lon": 41.690731,
+    "lat": 27.521879
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 106280
+  },
+  "name": "Hayil",
+  "stat": {
+    "level": 1,
+    "population": 267005
+  },
+  "zoom": 6
+},
+{
+  "id": 106909,
+  "coord": {
+    "lon": 35.69014,
+    "lat": 27.351339
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 101627
+  },
+  "name": "Zbe",
+  "stat": {
+    "level": 1,
+    "population": 65000
+  },
+  "zoom": 7
+},
+{
+  "id": 107304,
+  "coord": {
+    "lon": 43.974972,
+    "lat": 26.325991
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Buraydah",
+  "stat": {
+    "level": 1,
+    "population": 391336
+  },
+  "zoom": 7
+},
+{
+  "id": 107312,
+  "coord": {
+    "lon": 49.677608,
+    "lat": 25.937099
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Abqaiq",
+  "stat": {
+    "level": 1,
+    "population": 29474
+  },
+  "zoom": 9
+},
+{
+  "id": 107744,
+  "coord": {
+    "lon": 38.79047,
+    "lat": 23.782921
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109224
+  },
+  "name": "Badr Hunayn",
+  "stat": {
+    "level": 1,
+    "population": 27257
+  },
+  "zoom": 8
+},
+{
+  "id": 107781,
+  "coord": {
+    "lon": 44.815418,
+    "lat": 26.29945
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Az Zulfi",
+  "stat": {
+    "level": 1,
+    "population": 53144
+  },
+  "zoom": 8
+},
+{
+  "id": 107797,
+  "coord": {
+    "lon": 50.135281,
+    "lat": 26.30324
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Dhahran",
+  "stat": {
+    "level": 1,
+    "population": 99540
+  },
+  "zoom": 12
+},
+{
+  "id": 107959,
+  "coord": {
+    "lon": 49.72504,
+    "lat": 25.362761
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "At Taraf",
+  "stat": {
+    "level": 1,
+    "population": 21386
+  },
+  "zoom": 11
+},
+{
+  "id": 107968,
+  "coord": {
+    "lon": 40.415829,
+    "lat": 21.270281
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 104514
+  },
+  "name": "Taif",
+  "stat": {
+    "level": 1,
+    "population": 530848
+  },
+  "zoom": 8
+},
+{
+  "id": 108048,
+  "coord": {
+    "lon": 45.577919,
+    "lat": 20.46067
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108411
+  },
+  "name": "As Sulayyil",
+  "stat": {
+    "level": 1,
+    "population": 24097
+  },
+  "zoom": 6
+},
+{
+  "id": 108410,
+  "coord": {
+    "lon": 46.721851,
+    "lat": 24.687731
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLC",
+    "parent": 108411
+  },
+  "name": "Riyadh",
+  "stat": {
+    "level": 1,
+    "population": 15000
+  },
+  "zoom": 1
+},
+{
+  "id": 108435,
+  "coord": {
+    "lon": 43.497299,
+    "lat": 25.86944
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108933
+  },
+  "name": "Ar Rass",
+  "stat": {
+    "level": 1,
+    "population": 81728
+  },
+  "zoom": 9
+},
+{
+  "id": 108512,
+  "coord": {
+    "lon": 41.038078,
+    "lat": 30.975309
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109579
+  },
+  "name": "Arar",
+  "stat": {
+    "level": 1,
+    "population": 148540
+  },
+  "zoom": 6
+},
+{
+  "id": 108617,
+  "coord": {
+    "lon": 42.120098,
+    "lat": 19.14547
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "An Nimas",
+  "stat": {
+    "level": 1,
+    "population": 24153
+  },
+  "zoom": 8
+},
+{
+  "id": 108648,
+  "coord": {
+    "lon": 37.342819,
+    "lat": 31.33176
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 109470
+  },
+  "name": "Al Qurayyat",
+  "stat": {
+    "level": 1,
+    "population": 102903
+  },
+  "zoom": 7
+},
+{
+  "id": 108773,
+  "coord": {
+    "lon": 36.45248,
+    "lat": 26.24551
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 101627
+  },
+  "name": "Al Wajh",
+  "stat": {
+    "level": 1,
+    "population": 26636
+  },
+  "zoom": 7
+},
+{
+  "id": 108918,
+  "coord": {
+    "lon": 46.127289,
+    "lat": 28.311171
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Al Qaysumah",
+  "stat": {
+    "level": 1,
+    "population": 20685
+  },
+  "zoom": 7
+},
+{
+  "id": 108927,
+  "coord": {
+    "lon": 50.024521,
+    "lat": 26.5208
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 102358
+  },
+  "name": "Al Qatif",
+  "stat": {
+    "level": 1,
+    "population": 98259
+  },
+  "zoom": 11
+},
+{
+  "id": 109059,
+  "coord": {
+    "lon": 49.666672,
+    "lat": 25.383329
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Al Munayzilah",
+  "stat": {
+    "level": 1,
+    "population": 16296
+  },
+  "zoom": 12
+},
+{
+  "id": 109101,
+  "coord": {
+    "lon": 49.58083,
+    "lat": 25.41
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Al Mubarraz",
+  "stat": {
+    "level": 1,
+    "population": 290802
+  },
+  "zoom": 11
+},
+{
+  "id": 109223,
+  "coord": {
+    "lon": 39.61417,
+    "lat": 24.468611
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPLA",
+    "parent": 109224
+  },
+  "name": "Medina",
+  "stat": {
+    "level": 1,
+    "population": 1300000
+  },
+  "zoom": 5
+},
+{
+  "id": 109323,
+  "coord": {
+    "lon": 50.208328,
+    "lat": 26.27944
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Al Khubar",
+  "stat": {
+    "level": 1,
+    "population": 165799
+  },
+  "zoom": 10
+},
+{
+  "id": 109380,
+  "coord": {
+    "lon": 48.491322,
+    "lat": 28.439051
+  },
+  "country": "SA",
+  "geoname": {
+    "cl": "P",
+    "code": "PPL",
+    "parent": 108241
+  },
+  "name": "Al Khafji",
+  "stat": {
+    "level": 1,
+    "population": 54857
+  },
+  "zoom": 8
+}
+]

@@ -8,42 +8,40 @@ import Col from 'react-bootstrap/Col';
 
 export class FetchData extends Component {
   static displayName = FetchData.name;
-
+    
   constructor(props) {
     super(props);
-      this.state = { forecasts: [], loading: true };
+      this.state = { forecasts: [], citys:[], loading: true, city: '' };
+      
   }
 
     async componentDidMount() {
         await this.populateWeatherData();
   }
-
+    const handleChange = (selector, event) => {
+        if (selector === "artist") {
+            handleArtistChange(event);
+        } else if (selector === "genre") {
+           // handleGenreChange(event);
+        } else {
+            // Other logic
+        }
+        // Here you trigger whatever you want
+    }
+    const handleArtistChange = (event) => {
+        console.log(event)
+        //if (event.value === 'LZ' || event.value === "ACDC") {
+           // setGenre({ value: 'rock', label: 'Rock' })
+        } else {
+          //  setGenre({ value: 'country', label: 'Country' })
+       // }
+        console.log(genre)
+    }
   static renderForecastsTable(forecasts) {
       return (
           <div>
-        <Card style={{ width: '18rem' }}>
-  <Card.Img variant="top" src="holder.js/100px180" />
-  <Card.Body>
-    <Card.Title>Card Title</Card.Title>
-    <Card.Text>
-                          Some quick example text to build on the card title and make up the bulk of
-                          the card's content.
-    </Card.Text>
-                      <Container>
-                          <Row>
-                              <Col>1 of 3</Col>
-                              <Col xs={6}>2 of 3 (wider)</Col>
-                              <Col>3 of 3</Col>
-                          </Row>
-                          <Row>
-                              <Col>1 of 3</Col>
-                              <Col xs={5}>2 of 3 (wider)</Col>
-                              <Col>3 of 3</Col>
-                          </Row>
-                      </Container>
-    <Button variant="primary">Go somewhere</Button>
-  </Card.Body>
-</Card>
+              
+
       <table className='table table-striped' aria-labelledby="tabelLabel">
         <thead>
                 <tr>
@@ -85,7 +83,7 @@ export class FetchData extends Component {
     return (
       <div>
         <h1 id="tabelLabel" >Weather forecast</h1>
-        <p>This component demonstrates fetching data from server to OpenWeather API.</p>
+            <p>This component demonstrates fetching data from server to OpenWeather API.</p>
         {contents}
       </div>
     );
@@ -94,7 +92,7 @@ export class FetchData extends Component {
   async populateWeatherData() {
       const response = await fetch('weatherforecast/SearchByCityNameAsync/taipei');
     const data = await response.json();
-    this.setState({ forecasts: data, loading: false });
+    this.setState({ forecasts: data, loading: false, city:'taipei' });
   }
 
 }

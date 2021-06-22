@@ -54,5 +54,19 @@ namespace ReactSImpleRestAPI.Controllers
             l.Add(data);
             return Ok(l);
         }
+
+        [ProducesResponseType(StatusCodes.Status200OK, Type = typeof(List<CityData.Root>))]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [Route("CityList")]
+        public  IActionResult CityList()
+        {
+            WeatherRepositoryDevelopment wp = new WeatherRepositoryDevelopment();
+            var data = wp.CityDataList();
+            if (data == null)
+            {
+                return NotFound("No record");
+            }
+            return Ok(data);
+        }
     }
 }
